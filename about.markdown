@@ -13,4 +13,4 @@ Los componentes de este grupo de trabajo pertenecen todos al Departamento de Ing
 * Begoña Toral Alemany
 * Cristina Férriz Sánchez
 
-Queremos agradecer públicamente la colaboración de Ashley Noad, nuestro auxiliar de conversación esté año, y Ryan Davis, quienes han colaborado con grabaciones. 
+Queremos agradecer públicamente la colaboración de Ashley Noad, nuestro auxiliar de conversación esté año, y Ryan Davis, quienes han colaborado con grabaciones.
